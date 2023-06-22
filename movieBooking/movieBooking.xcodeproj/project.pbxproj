@@ -11,6 +11,19 @@
 		7EB703CF2A40075100443701 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EB703CE2A40075100443701 /* ContentView.swift */; };
 		7EB703D12A40075600443701 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7EB703D02A40075600443701 /* Assets.xcassets */; };
 		7EB703D42A40075600443701 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7EB703D32A40075600443701 /* Preview Assets.xcassets */; };
+		7EB703DC2A40081400443701 /* CircleBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EB703DB2A40081400443701 /* CircleBackground.swift */; };
+		7EB703DE2A40083600443701 /* StatusUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EB703DD2A40083600443701 /* StatusUI.swift */; };
+		7EB703E12A40085E00443701 /* PosterData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EB703E02A40085E00443701 /* PosterData.swift */; };
+		7EB703E32A40087D00443701 /* TicketData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EB703E22A40087D00443701 /* TicketData.swift */; };
+		7EB703E62A4008A600443701 /* CircleButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EB703E52A4008A600443701 /* CircleButton.swift */; };
+		7EB703E82A4008B800443701 /* DateButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EB703E72A4008B800443701 /* DateButton.swift */; };
+		7EB703EA2A4008DA00443701 /* LargeButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EB703E92A4008DA00443701 /* LargeButton.swift */; };
+		7EB703EC2A4008EE00443701 /* RoundButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EB703EB2A4008EE00443701 /* RoundButton.swift */; };
+		7EB703EE2A40090A00443701 /* TimeButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EB703ED2A40090A00443701 /* TimeButton.swift */; };
+		7EB703F02A40096500443701 /* utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EB703EF2A40096500443701 /* utils.swift */; };
+		7EB703F32A4009DA00443701 /* TicketView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EB703F22A4009DA00443701 /* TicketView.swift */; };
+		7EB703F62A400DC800443701 /* Ticket.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EB703F52A400DC800443701 /* Ticket.swift */; };
+		7EB703F82A4013B500443701 /* Tickets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EB703F72A4013B500443701 /* Tickets.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +32,19 @@
 		7EB703CE2A40075100443701 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7EB703D02A40075600443701 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7EB703D32A40075600443701 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7EB703DB2A40081400443701 /* CircleBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleBackground.swift; sourceTree = "<group>"; };
+		7EB703DD2A40083600443701 /* StatusUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatusUI.swift; sourceTree = "<group>"; };
+		7EB703E02A40085E00443701 /* PosterData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PosterData.swift; sourceTree = "<group>"; };
+		7EB703E22A40087D00443701 /* TicketData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicketData.swift; sourceTree = "<group>"; };
+		7EB703E52A4008A600443701 /* CircleButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleButton.swift; sourceTree = "<group>"; };
+		7EB703E72A4008B800443701 /* DateButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateButton.swift; sourceTree = "<group>"; };
+		7EB703E92A4008DA00443701 /* LargeButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargeButton.swift; sourceTree = "<group>"; };
+		7EB703EB2A4008EE00443701 /* RoundButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundButton.swift; sourceTree = "<group>"; };
+		7EB703ED2A40090A00443701 /* TimeButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeButton.swift; sourceTree = "<group>"; };
+		7EB703EF2A40096500443701 /* utils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = utils.swift; sourceTree = "<group>"; };
+		7EB703F22A4009DA00443701 /* TicketView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicketView.swift; sourceTree = "<group>"; };
+		7EB703F52A400DC800443701 /* Ticket.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ticket.swift; sourceTree = "<group>"; };
+		7EB703F72A4013B500443701 /* Tickets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tickets.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +77,14 @@
 		7EB703CB2A40075100443701 /* movieBooking */ = {
 			isa = PBXGroup;
 			children = (
+				7EB703F42A400DB400443701 /* Cards */,
+				7EB703F12A4009B400443701 /* Views */,
+				7EB703E42A40089500443701 /* Buttons */,
+				7EB703DF2A40085300443701 /* Data */,
+				7EB703DA2A4007F800443701 /* UI */,
 				7EB703CC2A40075100443701 /* movieBookingApp.swift */,
 				7EB703CE2A40075100443701 /* ContentView.swift */,
+				7EB703EF2A40096500443701 /* utils.swift */,
 				7EB703D02A40075600443701 /* Assets.xcassets */,
 				7EB703D22A40075600443701 /* Preview Content */,
 			);
@@ -65,6 +97,53 @@
 				7EB703D32A40075600443701 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		7EB703DA2A4007F800443701 /* UI */ = {
+			isa = PBXGroup;
+			children = (
+				7EB703DB2A40081400443701 /* CircleBackground.swift */,
+				7EB703DD2A40083600443701 /* StatusUI.swift */,
+			);
+			path = UI;
+			sourceTree = "<group>";
+		};
+		7EB703DF2A40085300443701 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				7EB703E02A40085E00443701 /* PosterData.swift */,
+				7EB703E22A40087D00443701 /* TicketData.swift */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		7EB703E42A40089500443701 /* Buttons */ = {
+			isa = PBXGroup;
+			children = (
+				7EB703E52A4008A600443701 /* CircleButton.swift */,
+				7EB703E72A4008B800443701 /* DateButton.swift */,
+				7EB703E92A4008DA00443701 /* LargeButton.swift */,
+				7EB703EB2A4008EE00443701 /* RoundButton.swift */,
+				7EB703ED2A40090A00443701 /* TimeButton.swift */,
+			);
+			path = Buttons;
+			sourceTree = "<group>";
+		};
+		7EB703F12A4009B400443701 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				7EB703F22A4009DA00443701 /* TicketView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		7EB703F42A400DB400443701 /* Cards */ = {
+			isa = PBXGroup;
+			children = (
+				7EB703F52A400DC800443701 /* Ticket.swift */,
+				7EB703F72A4013B500443701 /* Tickets.swift */,
+			);
+			path = Cards;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +216,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7EB703E62A4008A600443701 /* CircleButton.swift in Sources */,
+				7EB703F32A4009DA00443701 /* TicketView.swift in Sources */,
+				7EB703DC2A40081400443701 /* CircleBackground.swift in Sources */,
 				7EB703CF2A40075100443701 /* ContentView.swift in Sources */,
+				7EB703F82A4013B500443701 /* Tickets.swift in Sources */,
+				7EB703F02A40096500443701 /* utils.swift in Sources */,
+				7EB703F62A400DC800443701 /* Ticket.swift in Sources */,
 				7EB703CD2A40075100443701 /* movieBookingApp.swift in Sources */,
+				7EB703EE2A40090A00443701 /* TimeButton.swift in Sources */,
+				7EB703E32A40087D00443701 /* TicketData.swift in Sources */,
+				7EB703E82A4008B800443701 /* DateButton.swift in Sources */,
+				7EB703EC2A4008EE00443701 /* RoundButton.swift in Sources */,
+				7EB703E12A40085E00443701 /* PosterData.swift in Sources */,
+				7EB703DE2A40083600443701 /* StatusUI.swift in Sources */,
+				7EB703EA2A4008DA00443701 /* LargeButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
