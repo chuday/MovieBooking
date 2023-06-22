@@ -16,7 +16,9 @@ struct Tickets: View {
     ]
     
     var body: some View {
+        
         ZStack {
+            
             ForEach(tickets) { ticket in
                 InfiniteStackView(tickets: $tickets, ticket: ticket)
             }
