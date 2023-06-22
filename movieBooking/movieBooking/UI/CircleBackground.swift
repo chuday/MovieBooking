@@ -8,6 +8,7 @@
 import SwiftUI
 
 struct CircleBackground: View {
+    
     @State var color: Color = Color("greenCircle")
     
     var body: some View {

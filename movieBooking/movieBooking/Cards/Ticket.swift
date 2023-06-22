@@ -62,6 +62,7 @@ struct Ticket: View {
                         Text("April 23")
                             .foregroundColor(.black)
                     }
+                    
                     HStack(spacing: 4.0) {
                         Text("Time: ")
                             .fontWeight(.medium)
@@ -79,6 +80,7 @@ struct Ticket: View {
                         Text("2")
                             .foregroundColor(.black)
                     }
+                    
                     HStack(spacing: 4.0) {
                         Text("Seats: ")
                             .fontWeight(.medium)

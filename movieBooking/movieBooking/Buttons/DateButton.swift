@@ -15,8 +15,9 @@ struct DateButton: View {
     @State var width: CGFloat = 50
     @State var height: CGFloat = 80
     
-    @Binding var isSelected: Bool
     @State var action: () -> Void = {}
+    
+    @Binding var isSelected: Bool
     
     var currentBorderColors: [Color] = [Color("cyan"), Color("cyan").opacity(0), Color("cyan").opacity(0)]
     var currentGradient: [Color] = [Color("backgroundColor"), Color("grey")]
